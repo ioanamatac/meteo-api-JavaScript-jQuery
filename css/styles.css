@@ -1,0 +1,13 @@
+body {
+    background-image: url(../img/world_maps.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+}    
+ 
+ .card { background-color: rgba(41, 128,185, 0.75);
+    color:aqua;
+} 
+
+
+
