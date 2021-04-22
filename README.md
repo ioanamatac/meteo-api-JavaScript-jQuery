@@ -4,7 +4,7 @@
 Creation of a weather API with Javascript-jQuery Library 
 
 ### Screenshot
-![Image text](../img/world_maps.jpg)
+![Image text](/img/API-METEO.png)
 >
 >### Technologies
 * JavaScript (jQuery Library 3.5.1)
@@ -14,6 +14,6 @@ Creation of a weather API with Javascript-jQuery Library
 * Login to [OpenWeatherMap](https://openweathermap.org/guide)
 * Take your APIKEY
 * git clone https://github.com/ioanamatac/meteo-api-JavaScript-jQuery.git
-* Put your APIKEY in the url
+* Put your APIKEY in the url:js/app.js
 
 >Enjoy! Ioana
