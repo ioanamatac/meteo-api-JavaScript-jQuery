@@ -1,7 +1,13 @@
-## API METEO
+# API METEO>
 
+### General Info
+Creation of a weather API with Javascript-jQuery Library 
+
+### Screenshot
+![Image text](../img/world_maps.jpg)
+>
 >### Technologies
-* JavaScript (jQuery library 3.5.1)
+* JavaScript (jQuery Library 3.5.1)
 * Bootstrap 5.0.0-beta3
 
 >### Instalation
