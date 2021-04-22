@@ -1,4 +1,4 @@
-# API METEO>
+# API METEO
 
 ### General Info
 Creation of a weather API with Javascript-jQuery Library 
