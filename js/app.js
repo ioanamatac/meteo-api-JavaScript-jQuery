@@ -1,5 +1,5 @@
 $(function() {
-    var apiKey = '6a18420382686df3f9d0ac7cf344ce23';
+    var apiKey = '6a184203f3f......';
     var baseUrl = 'http://api.openweathermap.org/data/2.5/weather?APPID='+ apiKey + '&units=metric&lang=fr&lat&lon';
     console.log(baseUrl);
 
